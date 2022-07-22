@@ -1,0 +1,527 @@
+[
+  
+  
+  {
+    "cate": "REFRESHER",
+    "id": 1,
+    "listProduct": [
+      {
+        "id": 1,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657873542770txb1t.jpg",
+        "name": "Lá dứa than tre",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1],
+          "description": "Pandan Charcoal"
+      },
+      {
+        "id": 2,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657874194419ex650.jpg",
+        "name": "Dâu tằm tía tô",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Mulberry Shiso Lemonade"
+      },
+      {
+        "id": 3,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass16578743242697xt1q.jpg",
+        "name": "Soda xoài xanh muối ớt",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Salted Chili Green Mango Juice"
+      },
+      {
+        "id": 4,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657874474170jbnnb.jpg",
+        "name": "Latte bắp dứa",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+      {
+        "id": 5,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657874560793csvkp.jpg",
+        "name": "Quế dâu tây",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Strawberry Basil Lemonade"
+      },
+      {
+        "id": 6,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657874623170fblqf.jpg",
+        "name": "latter bắp dâu",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      }
+    ]
+  },
+  {
+    "cate": "FRUIT TEA",
+    "id": 2,
+    "listProduct": [
+     {
+        "id": 1,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657874934606qsffy.jpg",
+        "name": "Trà cam quế",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Hibiscus Cinnamon Orange Tea"
+      },
+      {
+        "id": 2,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875095581lblfk.jpg",
+        "name": "Trà đào chanh mật ong",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Peach Tea"
+      },
+      {
+        "id": 3,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875299673d48qy.jpg",
+        "name": "Trà ổi hồng",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Pink Guava Tea"
+      },{
+        "id": 4,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875343848vudx8.jpg",
+        "name": "Trà thanh long dâu",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Strawberry Dragonfruit Tea"
+      },
+      {
+        "id": 5,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875095581lblfk.jpg",
+        "name": "Trà vải",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Lychee Tea"
+      }
+    ]
+  },
+  {
+    "cate": "WELLNESS TEA",
+    "id": 3,
+    "listProduct": [
+      {
+        "id": 1,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass16578757321923pwof.jpg",
+        "name": "Trà chanh sả",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Lemongrass Lime Tea"
+      },
+      {
+        "id": 2,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875820089uw7eg.jpg",
+        "name": "Trà gạo rang",
+        "price": 19000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 6000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Roasted Rice Tea"
+      },
+      {
+        "id": 3,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1658110780793exl83.jpg",
+        "name": "Trà lài",
+        "price": 19000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 6000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Jasmine Tea"
+      },
+      {
+        "id": 4,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875887956rk0ed.jpg",
+        "name": "Trà lài cúc",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Chrysanthemum Jasmine Tea"
+      },
+      {
+        "id": 5,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657875957913yv1bo.jpg",
+        "name": "Trà lài dứa",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [],
+          "option": [0,1,2],
+          "description": "Pineapple Jasmine Tea"
+      }
+    ]
+  },
+  {
+    "cate": "VIETNAMESE COFFE",
+    "id": 4,
+    "listProduct": [
+      {
+        "id": 1,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657882583161sc6et.jpg",
+        "name": "Cà phê sữa tươi",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+      {
+        "id": 2,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657882593053tktds.jpg",
+        "name": "Cà phê latte bắp",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 39000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+      {
+        "id": 3,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657882694787hgghc.jpg",
+        "name": "Cà phê cà phê đen nóng",
+        "price": 26000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+              "priceExtra": 0
+          }
+          ],
+          "listTopping": [1,2,3,4,5,6,7,8,9],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+      {
+        "id": 4,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657882762270yx56k.jpg",
+        "name": "Cà phê sữa nóng",
+        "price": 29000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+              "priceExtra": 0
+          }
+          ],
+          "listTopping": [1,2,3,4,5,6,7,8,9],
+          "option": [0,1,2],
+          "description": "Vietnamese Milk Coffee"
+      },
+      {
+        "id": 5,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657882926992j0qqu.jpg",
+        "name": "Cà phê đen đã",
+        "price": 26000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 4000
+          }
+          ],
+          "listTopping": [1,2,3,4,5,6,7,8,9],
+          "option": [0,1,2],
+          "description": "Vietnamese Black Coffee"
+      },
+      {
+        "id": 6,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass16578830114106ltbw.jpg",
+        "name": "cà phê sữa đá",
+        "price": 29000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 4000
+          }
+          ],
+          "listTopping": [1,2,3,4,5,6,7,8,9],
+          "option": [0,1,2],
+          "description": "Vietnamese Milk Coffee (Iced)"
+      },
+      {
+        "id": 7,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657883125131gwxmw.jpg",
+        "name": "Cà phê chocolate",
+        "price": 35000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 5000
+          }
+          ],
+          "listTopping": [1,2,3,4,5,6,7,8,9],
+          "option": [0,1,2],
+          "description": "Vietnamese Chocolate Coffee"
+      }
+    ]
+  },
+  {
+    "cate": "MILK TEA",
+    "id": 5,
+    "listProduct": [
+      {
+        "id": 1,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657883312580981vs.jpg",
+        "name": "Hồng trà sữa trân châu",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+      {
+        "id": 2,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass16578833767362zqeh.jpg",
+        "name": "Trà gạo sữa",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      },
+{
+        "id": 3,
+        "imageName": "https://vimass.vn/vmbank/services/media/getImage?id=Vimass1657883448227t9pqs.jpg",
+        "name": "Trà lài sữa",
+        "price": 39000,
+        "size": [
+          {
+            "size": "M",
+            "priceExtra": 0
+          },
+          {
+            "size": "L",
+            "priceExtra": 10000
+          }
+          ],
+          "listTopping": [1,2,3],
+          "option": [0,1,2],
+          "description": "Chọn thêm Topping Dzui Dzui để thưởng thức Chuk Chuk thiệt đã bạn nha!"
+      }
+    ]
+  }
+]
